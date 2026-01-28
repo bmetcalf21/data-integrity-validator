@@ -1,6 +1,6 @@
 # Data Integrity Validator
 
-CLI tool for validating, cleansing, and deduplicating real estate property and event data. Built for production use with pandas-only dependency.
+CLI tool to validate, clean, and dedupe real estate property and event CSVs. Pandas-only dependency.
 
 ## Quick Start
 
@@ -64,10 +64,10 @@ All outputs written to `outputs/` directory:
 
 ## Safety Features
 
-- Never crashes on bad data
-- All validation errors captured with detailed reasons
-- Multiple violations per row combined with semicolon separator
-- Foreign key violations prevent orphaned events
+- Writes rejected rows instead of failing the run on invalid data
+- Detailed violation reasons for each rejected row
+- Multiple violations per row combined with semicolons
+- Foreign key checks prevent orphaned events
 
 ## Testing / Verification
 
