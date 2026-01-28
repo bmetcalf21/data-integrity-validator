@@ -69,6 +69,31 @@ All outputs written to `outputs/` directory:
 - Multiple violations per row combined with semicolon separator
 - Foreign key violations prevent orphaned events
 
+## Testing / Verification
+
+To verify the complete workflow:
+
+```bash
+# Clean previous outputs
+rm outputs/*.csv
+
+# Regenerate sample data
+./venv/bin/python scripts/generate_synth_data.py
+
+# Run validator
+./venv/bin/python validator.py
+
+# Verify outputs created
+ls -lh outputs/
+wc -l outputs/*.csv
+```
+
+**Expected results:**
+- ~182 cleaned properties (82.7% pass rate)
+- ~512 cleaned events (77.6% pass rate)
+- ~115 rejected rows with violation_reason
+- Average lag: attorney_update ~5h, trustee_site ~13h, aggregator ~28h
+
 ## Deploying Vercel Signpost
 
 This repo includes a simple landing page in `vercel_signpost/`:
