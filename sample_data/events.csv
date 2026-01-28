@@ -1,0 +1,661 @@
+apn,event_type,event_date,source,updated_at,notes
+268-488-10,Cancelled,2025-10-01,attorney_update,2025-10-01 02:47:04,Court filing received
+175-417-69,Postponed,2025-12-11,aggregator,2025-12-12 09:07:37,Status change confirmed
+177-244-38,Sold,2025-09-23,trustee_site,2025-09-24 02:18:30,
+883-689-58,Postponed,2025-10-30,aggregator,2025-10-31 04:11:48,Regular update
+951-809-89,Cancelled,2025-11-22,attorney_update,2025-11-22 02:04:58,Status change confirmed
+208-543-56,,2025-08-22,aggregator,2025-08-22 12:35:18,Regular update
+482-913-53,Cancelled,2025-10-18,attorney_update,2025-10-18 02:31:15,Trustee notification
+729-144-94,Sold,2025-08-26,attorney_update,2025-08-26 02:09:08,
+379-525-71,Cancelled,2025-09-14,aggregator,2025-09-14 11:25:49,Regular update
+426-201-93,Scheduled,2025-09-01,trustee_site,2025-09-01 09:22:37,Trustee notification
+554-459-67,Scheduled,2025-09-29,aggregator,2025-09-29 22:17:34,
+181-435-94,Scheduled,2025-09-28,aggregator,2025-09-29 17:26:15,Court filing received
+181-435-94,Sold,2025-08-07,attorney_update,2025-08-07 02:03:50,Regular update
+175-552-54,Cancelled,2025-12-21,trustee_site,2025-12-21 19:48:48,Status change confirmed
+930-490-59,Sold,2026-01-13,aggregator,2026-01-13 20:01:09,
+928-903-70,Sold,2025-10-24,aggregator,2025-10-24 10:02:41,Trustee notification
+234-192-47,Cancelled,2025-10-30,aggregator,2025-10-30 13:09:39,Trustee notification
+779-968-25,Postponed,2025-09-08,trustee_site,2025-09-08 01:13:07,Trustee notification
+444-129-73,Cancelled,2025-12-06,aggregator,2025-12-06 18:54:02,Status change confirmed
+181-435-94,Cancelled,2025-12-28,trustee_site,2025-12-28 05:31:54,
+737-874-73,Sold,2025-12-22,trustee_site,2025-12-22 10:45:26,Regular update
+409-303-59,Cancelled,2025-09-28,aggregator,2025-09-29 09:33:56,Court filing received
+420-537-50,Cancelled,2025-08-03,aggregator,2025-08-03 23:13:05,
+981-212-29,Postponed,2025-11-30,aggregator,2025-12-01 05:43:06,Regular update
+253-661-87,Scheduled,2025-09-29,attorney_update,2025-09-29 02:48:17,Trustee notification
+996-836-43,Scheduled,2025-09-04,aggregator,2025-09-06 05:23:01,Court filing received
+554-459-67,Scheduled,2025-10-14,attorney_update,2025-10-14 02:27:33,Regular update
+713-620-27,Sold,2025-11-15,attorney_update,2025-11-15 01:34:50,Regular update
+412-682-89,Sold,2025-10-01,attorney_update,2025-10-01 02:19:25,Status change confirmed
+184-844-64,Postponed,2025-11-03,attorney_update,2025-11-03 01:09:51,Trustee notification
+779-968-25,Postponed,2025-08-18,aggregator,2025-08-19 17:56:11,
+102-389-48,Scheduled,2025-12-24,attorney_update,2025-12-24 00:52:15,Status change confirmed
+129-498-53,Scheduled,2025-10-22,trustee_site,2025-10-22 12:54:45,Trustee notification
+554-459-67,Scheduled,2025-08-14,trustee_site,2025-08-14 22:00:12,Trustee notification
+996-836-43,Scheduled,2025-11-11,trustee_site,2025-11-11 16:54:27,Trustee notification
+244-458-49,Cancelled,2025-08-24,trustee_site,2025-08-24 19:42:10,Court filing received
+676-202-19,Sold,2025-10-04,attorney_update,2025-10-04 01:58:50,Status change confirmed
+565-477-96,Postponed,2025-08-07,attorney_update,2025-08-07 00:38:08,
+787-765-57,Sold,2025-08-01,aggregator,2025-08-01 06:41:36,Regular update
+732-150-96,Postponed,2025-08-07,aggregator,2025-08-08 20:26:54,
+343-702-51,Sold,2025-10-04,attorney_update,2025-10-04 02:42:00,
+554-459-67,Unknown,2026-01-10,aggregator,,Regular update
+996-836-43,Scheduled,2026-01-20,trustee_site,2026-01-20 16:35:01,Trustee notification
+676-202-19,Sold,2025-10-23,trustee_site,2025-10-23 00:06:00,Status change confirmed
+253-661-87,Postponed,2025-10-31,aggregator,2025-11-01 08:30:34,Regular update
+420-537-50,Sold,2025-12-27,aggregator,2025-12-27 22:49:07,Regular update
+444-129-73,Sold,2025-09-11,aggregator,2025-09-11 15:33:52,Status change confirmed
+873-553-88,Postponed,2025-11-01,trustee_site,2025-11-01 14:10:37,Regular update
+926-144-68,Scheduled,2025-08-09,ATTORNEY_UPDATE,2025-08-10 06:25:03,Regular update
+651-369-84,Sold,2025-11-30,trustee_site,2025-11-30 02:15:28,Regular update
+794-900-66,Cancelled,2025-09-17,attorney_update,2025-09-17 01:35:08,Trustee notification
+965-674-89,Postponed,2025-08-08,aggregator,2025-08-08 11:24:12,Trustee notification
+936-561-54,Sold,2025-11-08,aggregator,2025-11-09 06:12:01,Status change confirmed
+444-129-73,Sold,2025-09-13,attorney_update,2025-09-13 00:06:00,Trustee notification
+926-769-77,Sold,2025-09-07,attorney_update,2025-09-07 02:19:20,Status change confirmed
+965-674-89,Postponed,2025-11-27,trustee_site,2025-11-27 11:49:53,Regular update
+193-581-54,Scheduled,2025-12-11,aggregator,2025-12-12 10:44:22,Regular update
+426-201-93,Scheduled,2025-12-11,attorney_update,2025-12-11 02:26:53,
+390-627-94,Cancelled,2026-01-25,trustee_site,2026-01-25 04:28:49,Court filing received
+178-687-27,Scheduled,2025-09-28,aggregator,2025-09-29 15:53:53,Court filing received
+883-689-58,Cancelled,2025-10-23,trustee_site,2025-10-23 07:15:40,Status change confirmed
+612-652-73,Cancelled,2025-10-28,trustee_site,2025-10-28 04:59:09,Regular update
+181-435-94,Sold,2025-12-07,trustee_site,2025-12-07 11:26:02,Trustee notification
+651-369-84,Postponed,2025-12-22,aggregator,2025-12-23 15:09:20,
+202-995-66,Cancelled,2025-12-09,attorney_update,2025-12-09 02:07:44,Trustee notification
+261-478-49,Postponed,2025-09-10,trustee_site,2025-09-10 06:51:22,Trustee notification
+322-554-66,Sold,2025-12-16,trustee_site,2025-12-16 04:28:16,Trustee notification
+181-435-94,Sold,2025-09-12,attorney_update,2025-09-12 04:30:22,
+936-561-54,POSTPONED,2025-12-21,aggregator,invalid,Status change confirmed
+975-192-88,Sold,2025-09-26,aggregator,2025-09-26 22:10:09,Regular update
+INVALID,Postponed,2025-11-28,ATTORNEY_UPDATE,2025-11-28 02:15:05,Trustee notification
+787-765-57,Cancelled,2025-10-03,trustee_site,2025-10-03 10:10:32,
+446-933-92,Postponed,2025-08-06,trustee_site,2025-08-06 13:09:31,Regular update
+887-756-53,Postponed,2025-11-05,,2025-11-05 19:39:35,Regular update
+680-997-50,Postponed,2025-08-04,attorney_update,2025-08-04 02:51:50,Regular update
+684-526-33,Cancelled,2025-09-06,aggregator,2025-09-06 15:08:59,Regular update
+321-856-71,Scheduled,2025-08-31,attorney_update,2025-08-31 03:08:37,Status change confirmed
+444-129-73,Postponed,2025-11-28,aggregator,2025-11-29 17:30:35,
+195-330-24,Cancelled,2025-12-24,trustee_site,2025-12-24 14:18:33,Regular update
+906-910-90,Scheduled,2025-10-09,attorney_update,2025-10-09 00:31:12,Court filing received
+708-581-47,Sold,2026-01-21,trustee_site,2026-01-21 05:00:53,Status change confirmed
+612-652-73,Sold,2025-12-12,trustee_site,2025-12-12 04:09:51,
+319-652-26,Cancelled,2026-01-10,attorney_update,2026-01-10 02:30:12,Court filing received
+952-298-47,Cancelled,2026-01-05,attorney_update,2026-01-05 02:17:07,Regular update
+409-303-59,Cancelled,2026-01-02,trustee_site,2026-01-02 14:36:04,Status change confirmed
+863-165-70,Sold,2026-01-22,attorney_update,2026-01-22 02:28:35,Regular update
+761-200-17,Cancelled,2026-01-25,trustee_site,2026-01-25 10:27:18,Regular update
+949-810-44,Postponed,2025-09-17,aggregator,2025-09-18 11:28:45,Court filing received
+521-921-95,Postponed,2025-11-12,trustee_site,2025-11-12 11:36:39,Court filing received
+770-258-19,Cancelled,2026-01-09,trustee_site,2026-01-09 15:20:51,Trustee notification
+129-498-53,Sold,2025-08-24,aggregator,2025-08-25 01:54:54,Trustee notification
+737-874-73,Cancelled,2025-08-15,trustee_site,2025-08-15 14:41:19,Court filing received
+417-863-53,Postponed,2025-11-09,trustee_site,2025-11-09 14:39:20,Trustee notification
+169-453-40,Sold,2025-11-27,aggregator,2025-11-28 10:51:56,Trustee notification
+379-525-71,Cancelled,2025-09-06,attorney_update,2025-09-06 03:03:56,Court filing received
+714-419-55,Scheduled,2025-10-02,aggregator,2025-10-04 15:11:35,Court filing received
+376-730-78,Scheduled,2025-08-09,trustee_site,2025-08-09 03:30:02,Court filing received
+233-752-43,Sold,2026-01-10,trustee_site,2026-01-10 12:02:13,Status change confirmed
+219-243-15,Sold,2025-09-21,aggregator,2025-09-22 21:28:41,Status change confirmed
+126-193-39,Scheduled,2025-11-26,attorney_update,2025-11-26 01:03:59,Trustee notification
+550-169-70,Scheduled,2025-08-16,aggregator,2025-08-16 18:39:55,Trustee notification
+180-724-58,Scheduled,2026-01-03,attorney_update,2026-01-03 01:05:34,Trustee notification
+820-556-37,Postponed,2025-10-25,trustee_site,2025-10-25 03:59:58,
+370-617-72,Cancelled,2025-09-27,attorney_update,2025-09-27 03:05:13,Regular update
+319-652-26,Scheduled,2025-12-23,aggregator,2025-12-23 17:37:40,Court filing received
+763-252-44,Sold,2025-10-08,attorney_update,2025-10-08 02:44:50,Status change confirmed
+444-129-73,Scheduled,2025-12-30,aggregator,2025-12-31 10:53:24,Regular update
+867-258-40,Postponed,2025-12-15,aggregator,2025-12-16 01:33:20,
+949-810-44,Sold,2025-11-30,trustee_site,2025-11-30 14:30:00,Court filing received
+180-724-58,Sold,2025-08-24,attorney_update,2025-08-24 00:39:11,Court filing received
+483-541-28,Sold,2025-08-01,attorney_update,2025-08-01 02:10:37,Regular update
+420-537-50,Postponed,2025-11-06,trustee_site,2025-11-06 16:43:41,Court filing received
+170-899-93,Sold,2025-08-18,aggregator,2025-08-18 19:22:55,Status change confirmed
+763-252-44,Cancelled,2025-08-23,trustee_site,2025-08-23 17:29:09,Court filing received
+423-417-75,Cancelled,2025-08-30,aggregator,2025-08-31 05:32:40,Regular update
+655-162-50,Postponed,2025-08-04,trustee_site,2025-08-04 13:38:01,Court filing received
+770-258-19,Postponed,2025-10-22,aggregator,2025-10-22 11:43:50,
+319-449-72,Postponed,2025-12-17,aggregator,2025-12-18 06:26:35,Status change confirmed
+846-905-50,Cancelled,2025-08-23,trustee_site,2025-08-23 17:20:27,Regular update
+779-968-25,Sold,2025-09-21,aggregator,2025-09-22 03:44:26,Status change confirmed
+322-554-66,Sold,2025-10-07,aggregator,2025-10-07 19:01:38,Regular update
+868-981-23,Cancelled,2025-11-19,attorney_update,2025-11-19 02:01:46,Court filing received
+521-921-95,Sold,2025-09-24,aggregator,2025-09-24 18:24:08,Regular update
+786-225-62,Cancelled,2026-01-18,aggregator,2026-01-18 22:11:30,Status change confirmed
+972-790-78,Scheduled,2025-08-14,aggregator,2025-08-15 00:05:07,Regular update
+763-252-44,Scheduled,2025-12-29,trustee_site,2025-12-29 06:57:21,Court filing received
+492-680-14,Cancelled,2025-08-25,aggregator,2025-08-25 19:08:35,Court filing received
+429-576-66,Scheduled,2025-10-31,aggregator,2025-10-31 18:38:39,
+420-537-50,Postponed,2025-08-01,trustee_site,2025-08-01 09:55:44,
+242-877-70,Scheduled,2025-10-15,attorney_update,2025-10-15 03:15:27,Regular update
+951-809-89,Postponed,2025-12-26,aggregator,2025-12-27 00:02:18,Court filing received
+242-877-70,Sold,2025-12-23,trustee_site,2025-12-23 21:27:32,
+186-616-92,Sold,2025-10-05,trustee_site,2025-10-05 21:29:45,Regular update
+820-556-37,Cancelled,2025-10-26,aggregator,2025-10-27 09:45:16,Status change confirmed
+411-187-41,Scheduled,2026-01-05,aggregator,2026-01-05 22:24:41,Trustee notification
+998-887-80,Sold,2025-10-11,attorney_update,2025-10-11 00:54:01,Court filing received
+380-146-16,Cancelled,2025-09-10,trustee_site,2025-09-10 05:09:26,Status change confirmed
+253-661-87,Scheduled,2026-01-03,attorney_update,2026-01-03 01:23:31,Status change confirmed
+356-794-94,Rescheduled,2025-08-15,aggregator,2025-08-16 17:17:40,Regular update
+503-706-82,Scheduled,2025-08-11,trustee_site,2025-08-11 03:17:23,Court filing received
+586-560-43,Scheduled,2026-01-09,attorney_update,,
+384-928-10,Scheduled,2025-11-02,aggregator,2025-11-03 14:37:42,Status change confirmed
+219-243-15,Scheduled,2025-10-22,attorney_update,2025-10-22 00:06:00,Regular update
+871-969-40,Scheduled,2025-10-26,trustee_site,2025-10-26 14:23:21,Court filing received
+242-877-70,Postponed,2025-09-15,attorney_update,2025-09-15 01:37:50,
+181-435-94,Postponed,2025-12-04,aggregator,,Court filing received
+335-612-81,Sold,2025-10-11,trustee_site,2025-10-11 10:42:05,Trustee notification
+129-498-53,Cancelled,2026-01-22,aggregator,2026-01-23 06:03:10,Trustee notification
+643-622-34,Postponed,2025-10-20,aggregator,2025-10-20 22:51:55,Court filing received
+848-902-81,Postponed,2025-08-18,trustee_site,2025-08-18 13:55:41,
+,Sold,,attorney_update,,Regular update
+713-620-27,Cancelled,2025-09-22,aggregator,2025-09-23 01:21:05,Status change confirmed
+348-204-99,POSTPONED,2025-12-20,attorney_update,2025-12-20 00:57:22,Status change confirmed
+639-138-94,Scheduled,2025-08-03,trustee_site,2025-08-03 00:06:00,Court filing received
+544-218-68,Scheduled,2025-12-15,aggregator,invalid,Court filing received
+915-981-15,Sold,2025-09-17,trustee_site,2025-09-17 17:41:15,
+181-435-94,Cancelled,2025-10-25,attorney_update,2025-10-25 03:13:03,Trustee notification
+620-182-33,Scheduled,2025-10-11,trustee_site,2025-10-11 19:29:04,Trustee notification
+170-899-93,Scheduled,2025-10-04,trustee_site,2025-10-04 09:58:41,
+807-252-79,Cancelled,2025-09-04,attorney_update,2025-09-04 01:58:37,Regular update
+343-702-51,Scheduled,2026-01-25,attorney_update,2026-01-25 02:02:19,Status change confirmed
+508-436-45,Scheduled,2025-08-14,aggregator,2025-08-15 13:32:58,Status change confirmed
+129-498-53,Sold,2025-11-08,aggregator,2025-11-08 23:21:23,Trustee notification
+998-69,Cancelled,2025-10-26,aggregator,2025-10-27 04:47:22,
+178-687-27,Postponed,2025-10-26,trustee_site,2025-10-26 06:07:56,Court filing received
+786-225-62,Postponed,2026-01-27,attorney_update,2026-01-27 01:21:52,Status change confirmed
+169-453-40,Cancelled,2025-11-11,,invalid,Court filing received
+996-836-43,Postponed,2025-11-18,aggregator,2025-11-19 22:33:51,
+810-607-46,Sold,2026-01-07,aggregator,2026-01-08 14:55:45,
+939-503-19,Scheduled,2025-11-23,attorney_update,2025-11-23 02:53:35,Trustee notification
+271-720-87,Postponed,2025-12-08,attorney_update,2025-12-08 01:33:08,Court filing received
+316-885-27,Scheduled,2026-01-01,attorney_update,2026-01-01 02:34:26,Status change confirmed
+150-720-73,Cancelled,2025-08-06,attorney_update,2025-08-06 02:57:43,
+761-200-17,Cancelled,2025-11-23,attorney_update,2025-11-23 03:08:05,Status change confirmed
+714-419-55,Postponed,2025-10-02,attorney_update,2025-10-02 04:11:18,Regular update
+350-478-46,Scheduled,2026-01-13,attorney_update,2026-01-13 03:22:36,Court filing received
+102-389-48,Cancelled,2025-08-20,aggregator,2025-08-20 00:06:00,Regular update
+951-531-42,Scheduled,2026-01-12,attorney_update,2026-01-12 02:27:52,Court filing received
+683-352-84,Rescheduled,2025-10-19,,2025-10-20 16:22:11,Status change confirmed
+327-304-68,Cancelled,2025-12-12,attorney_update,2025-12-12 01:49:48,Court filing received
+950-188-45,Sold,2025-10-13,manual,2025-10-14 12:52:54,
+786-225-62,Scheduled,2025-10-29,trustee_site,2025-10-29 01:37:17,Trustee notification
+667-312-85,Cancelled,2025-11-20,trustee_site,2025-11-20 13:19:55,Court filing received
+45-159-70,Postponed,,aggregator,2026-01-28 11:39:56,Status change confirmed
+327-304-68,Postponed,2025-08-30,attorney_update,2025-08-30 01:19:17,Trustee notification
+463-314-95,Cancelled,2025-09-06,aggregator,2025-09-07 17:52:38,Court filing received
+101-632-78,Sold,2025-11-10,aggregator,2025-11-11 01:30:19,Regular update
+868-981-23,Scheduled,2025-09-28,aggregator,2025-09-29 02:58:48,Regular update
+175-417-69,Postponed,2025-11-02,attorney_update,2025-11-02 01:32:16,Trustee notification
+821-245-24,Cancelled,2025-08-12,trustee_site,2025-08-12 00:06:00,Regular update
+380-146-16,Postponed,2025-10-09,attorney_update,2025-10-09 02:39:39,Trustee notification
+949-810-44,Cancelled,2025-08-11,attorney_update,2025-08-11 00:06:00,
+218-891-61,Cancelled,2025-08-05,aggregator,2025-08-05 21:55:39,Regular update
+732-150-96,Sold,2026-01-20,aggregator,2026-01-21 07:12:53,Court filing received
+550-169-70,Postponed,2025-09-06,aggregator,2025-09-07 11:09:02,Trustee notification
+550-179-46,Cancelled,2025-12-17,trustee_site,2025-12-17 16:16:29,Regular update
+936-561-54,Cancelled,2026-01-26,trustee_site,2026-01-26 11:33:58,Regular update
+268-488-10,Scheduled,2025-10-22,attorney_update,2025-10-22 02:45:15,Status change confirmed
+867-258-40,Sold,2025-10-24,trustee_site,2025-10-24 08:32:32,Status change confirmed
+379-320-75,Postponed,2025-10-05,attorney_update,2025-10-05 02:46:49,Regular update
+846-350-30,Cancelled,2025-11-08,attorney_update,2025-11-08 01:58:01,Trustee notification
+218-891-61,Postponed,2026-01-09,aggregator,2026-01-10 05:37:50,
+761-200-17,Cancelled,2025-08-24,aggregator,2025-08-25 14:40:36,Status change confirmed
+867-258-40,Sold,2026-01-15,attorney_update,2026-01-15 01:01:45,Regular update
+101-632-78,Sold,2025-09-09,aggregator,2025-09-09 20:36:21,Trustee notification
+444-129-73,Postponed,2026-01-16,attorney_update,2026-01-16 00:24:24,Status change confirmed
+322-554-66,Postponed,2025-10-28,attorney_update,2025-10-28 02:25:41,
+559-243-64,Scheduled,2025-12-16,attorney_update,2025-12-16 02:00:36,Trustee notification
+674-435-88,Scheduled,2025-10-19,trustee_site,2025-10-19 00:06:00,Trustee notification
+737-874-73,Sold,2025-12-02,,2025-12-03 04:37:27,
+319-652-26,Sold,2026-01-13,aggregator,2026-01-14 05:12:28,
+674-435-88,Postponed,2025-11-13,trustee_site,2025-11-13 06:19:09,Regular update
+495-447-33,Scheduled,2025-09-04,aggregator,2025-09-05 17:27:57,
+867-258-40,Postponed,2024-13-45,,2026-01-28 11:39:56,Court filing received
+951-531-42,Cancelled,2026-01-11,aggregator,2026-01-11 11:23:10,Regular update
+713-620-27,Cancelled,2025-09-17,trustee_site,2025-09-17 00:13:08,
+770-258-19,Scheduled,2025-12-21,trustee_site,2025-12-21 15:10:14,Court filing received
+316-885-27,Scheduled,2025-09-06,attorney_update,2025-09-06 02:19:26,
+930-490-59,Cancelled,2025-08-14,trustee_site,2025-08-14 01:38:56,Status change confirmed
+674-435-88,Scheduled,2025-11-19,attorney_update,2025-11-19 00:51:43,Status change confirmed
+550-179-46,Rescheduled,invalid-date,trustee_site,2026-01-28 11:39:56,Status change confirmed
+684-526-33,Scheduled,2025-12-25,attorney_update,2025-12-25 02:47:40,Trustee notification
+409-303-59,Cancelled,2025-10-14,trustee_site,2025-10-14 09:56:57,Status change confirmed
+344-685-59,Sold,2025-10-25,aggregator,2025-10-25 20:49:10,Regular update
+807-252-79,Scheduled,2025-09-21,trustee_site,2025-09-21 03:25:03,
+463-314-95,Postponed,2025-12-08,attorney_update,2025-12-08 02:59:36,Regular update
+356-794-94,Scheduled,2025-08-01,trustee_site,2025-08-01 13:48:28,Status change confirmed
+442-167-52,Scheduled,2026-01-21,aggregator,2026-01-22 10:55:11,Court filing received
+217-514-12,Sold,2025-09-29,attorney_update,2025-09-29 01:12:25,Court filing received
+951-531-42,Scheduled,2026-01-21,trustee_site,2026-01-21 09:06:35,Status change confirmed
+303-250-13,Postponed,2025-09-19,trustee_site,invalid,Regular update
+787-760-48,Postponed,2026-01-26,aggregator,2026-01-27 02:41:44,Trustee notification
+465-982-16,Cancelled,2025-10-24,trustee_site,2025-10-24 20:06:14,Trustee notification
+689-299-99,Sold,2025-08-08,trustee_site,2025-08-08 03:40:57,
+810-607-46,Cancelled,2025-11-03,attorney_update,2025-11-03 01:49:09,Trustee notification
+951-531-42,Cancelled,2025-12-21,attorney_update,2025-12-21 01:15:46,Regular update
+190-547-23,Sold,2025-11-08,aggregator,2025-11-08 23:02:06,Court filing received
+951-809-89,Sold,2025-11-23,trustee_site,2025-11-23 17:05:39,Regular update
+732-150-96,Postponed,2025-12-03,trustee_site,2025-12-03 08:37:35,
+674-435-88,Cancelled,2025-11-13,aggregator,2025-11-14 12:58:37,
+559-243-64,Sold,2025-11-23,attorney_update,2025-11-23 00:25:03,
+649-439-13,Cancelled,2026-01-06,aggregator,2026-01-07 01:28:47,Trustee notification
+331-894-76,Cancelled,2025-09-01,trustee_site,2025-09-01 16:12:04,Trustee notification
+620-182-33,Sold,2025-08-19,attorney_update,2025-08-19 00:06:00,Regular update
+779-968-25,Scheduled,2025-10-23,aggregator,2025-10-23 09:32:33,
+579-641-42,Postponed,2025-12-08,attorney_update,2025-12-08 00:22:35,Status change confirmed
+787-765-57,Postponed,invalid-date,attorney_update,2026-01-28 11:39:56,Court filing received
+807-252-79,Sold,2025-12-26,attorney_update,2025-12-26 04:27:56,
+483-541-28,Sold,2025-09-28,trustee_site,2025-09-28 10:45:48,Court filing received
+881-444-23,Cancelled,2025-12-11,aggregator,2025-12-12 02:13:37,Regular update
+186-616-92,Postponed,2025-08-04,attorney_update,2025-08-04 02:37:09,Regular update
+335-612-81,Cancelled,2026-01-12,attorney_update,2026-01-12 01:23:45,Regular update
+376-730-78,Sold,2025-09-17,aggregator,2025-09-17 15:02:27,Court filing received
+322-554-66,Cancelled,2025-12-17,attorney_update,2025-12-17 01:28:59,Status change confirmed
+303-250-13,Postponed,2025-08-18,ATTORNEY_UPDATE,2025-08-18 20:18:08,Regular update
+951-809-89,Scheduled,2025-08-05,attorney_update,2025-08-05 01:55:53,Regular update
+737-874-73,Scheduled,2025-11-25,aggregator,2025-11-25 17:10:14,Regular update
+928-903-70,Scheduled,2025-09-17,aggregator,2025-09-18 01:06:29,Trustee notification
+164-833-68,Postponed,2026-01-02,trustee_site,2026-01-02 03:42:05,Trustee notification
+303-723-35,Postponed,2026-01-18,trustee_site,2026-01-18 11:23:41,Court filing received
+238-497-68,Cancelled,2026-01-28,attorney_update,2026-01-28 02:25:49,Regular update
+936-561-54,Sold,2026-01-05,attorney_update,2026-01-05 02:02:04,
+910-436-26,Cancelled,,attorney_update,2026-01-28 11:39:56,Trustee notification
+242-877-70,Cancelled,2025-12-30,trustee_site,2025-12-30 20:21:43,Regular update
+762-274-52,Sold,2026-01-05,trustee_site,2026-01-05 17:40:57,Trustee notification
+102-389-48,Sold,2025-11-20,trustee_site,2025-11-20 16:42:32,Status change confirmed
+639-138-94,Postponed,2025-12-26,attorney_update,2025-12-26 00:41:10,Regular update
+807-252-79,Scheduled,2025-08-30,trustee_site,2025-08-30 04:15:43,Status change confirmed
+737-874-73,Cancelled,2026-01-21,aggregator,2026-01-22 01:41:28,Court filing received
+258-524-93,Scheduled,2025-10-08,trustee_site,2025-10-08 16:28:45,Trustee notification
+216-126-33,Postponed,2025-09-18,aggregator,2025-09-19 02:39:43,
+906-910-90,Sold,,ATTORNEY_UPDATE,2026-01-28 11:39:56,Status change confirmed
+867-258-40,Scheduled,2025-11-07,trustee_site,2025-11-07 12:54:34,Regular update
+714-419-55,Sold,2025-11-29,trustee_site,2025-11-30 03:52:27,Regular update
+732-150-96,Sold,2025-09-23,attorney_update,2025-09-23 01:31:29,Status change confirmed
+926-144-68,Scheduled,2025-10-15,trustee_site,2025-10-15 12:59:05,Regular update
+125-859-45,Scheduled,2025-08-23,aggregator,2025-08-23 07:37:34,
+936-561-54,Sold,2025-10-27,trustee_site,2025-10-27 02:24:35,Regular update
+356-794-94,Cancelled,2025-08-23,aggregator,2025-08-23 08:34:42,Trustee notification
+655-162-50,Scheduled,2025-12-03,aggregator,2025-12-03 12:48:10,Regular update
+442-167-52,Cancelled,2025-09-17,aggregator,2025-09-17 20:00:17,Court filing received
+184-844-64,Sold,2025-11-24,attorney_update,2025-11-24 02:20:15,
+620-182-33,Sold,2025-10-03,attorney_update,2025-10-03 02:17:36,Trustee notification
+426-201-93,Sold,2025-12-25,aggregator,2025-12-25 17:02:13,Regular update
+981-212-29,Sold,2025-09-27,aggregator,2025-09-28 18:35:55,Court filing received
+327-304-68,Postponed,2025-10-21,attorney_update,2025-10-21 01:12:09,
+380-146-16,Sold,2025-08-26,trustee_site,2025-08-26 20:47:05,Trustee notification
+708-581-47,Cancelled,2025-12-25,trustee_site,2025-12-25 06:52:19,Court filing received
+164-833-68,Cancelled,2025-09-10,aggregator,2025-09-11 12:07:54,
+661-953-10,Postponed,2025-11-15,aggregator,2025-11-15 09:28:02,Trustee notification
+787-760-48,Postponed,2025-09-12,aggregator,2025-09-12 20:22:14,Regular update
+949-810-44,Sold,2025-09-04,aggregator,2025-09-04 14:03:16,Status change confirmed
+998-887-80,Cancelled,2026-01-25,trustee_site,2026-01-25 10:39:22,Court filing received
+373-868-30,Cancelled,2025-11-14,ATTORNEY_UPDATE,2025-11-14 23:36:48,
+426-201-93,Postponed,2025-09-20,aggregator,2025-09-21 02:59:04,Regular update
+195-330-24,Sold,2025-11-09,aggregator,2025-11-09 14:34:40,
+409-303-59,Cancelled,2025-12-09,aggregator,2025-12-10 09:45:56,Court filing received
+662-269-43,Postponed,2025-09-19,attorney_update,2025-09-19 01:48:51,Regular update
+483-541-28,Cancelled,2025-11-22,aggregator,2025-11-23 10:52:28,Trustee notification
+680-997-50,Unknown,2025-08-12,aggregator,2025-08-13 11:35:24,
+680-180-20,Cancelled,2025-12-03,aggregator,2025-12-04 14:01:24,
+786-225-62,Sold,2025-10-31,attorney_update,2025-10-31 01:40:34,Court filing received
+928-903-70,Cancelled,2025-10-28,trustee_site,2025-10-28 08:01:30,
+949-810-44,Scheduled,2025-08-10,attorney_update,2025-08-10 04:21:32,Trustee notification
+910-436-26,Postponed,2025-08-07,attorney_update,2025-08-07 02:44:16,Regular update
+195-542-22,Cancelled,2025-09-18,attorney_update,2025-09-18 01:21:17,Trustee notification
+343-702-51,Sold,2026-01-17,trustee_site,2026-01-17 09:29:38,Trustee notification
+559-243-64,Postponed,2025-09-14,aggregator,2025-09-15 16:41:16,Regular update
+390-627-94,Postponed,2025-10-12,aggregator,2025-10-13 04:10:24,Status change confirmed
+680-180-20,Postponed,2025-10-03,attorney_update,2025-10-03 01:25:02,Trustee notification
+282-913-42,Postponed,2025-08-20,trustee_site,2025-08-20 09:35:04,Regular update
+910-436-26,Scheduled,2025-09-01,aggregator,2025-09-02 10:53:55,Regular update
+680-180-20,Cancelled,2026-01-01,aggregator,2026-01-01 19:28:35,
+713-620-27,Scheduled,2025-10-20,aggregator,2025-10-21 17:41:34,
+442-167-52,Postponed,2025-08-08,trustee_site,2025-08-08 23:47:56,Trustee notification
+384-928-10,Postponed,2026-01-18,attorney_update,2026-01-18 00:18:33,Regular update
+379-525-71,Scheduled,2025-12-06,trustee_site,2025-12-06 11:51:40,Trustee notification
+319-449-72,Postponed,2025-12-12,attorney_update,2025-12-12 00:06:00,Court filing received
+503-706-82,Postponed,2025-12-13,attorney_update,2025-12-13 01:23:00,Regular update
+714-419-55,Sold,2025-09-10,aggregator,2025-09-10 10:20:35,Regular update
+713-431-72,Cancelled,2025-12-09,attorney_update,2025-12-09 01:49:24,Trustee notification
+936-561-54,Postponed,2025-11-17,attorney_update,2025-11-17 00:51:28,
+597-561-52,Cancelled,2025-10-27,attorney_update,2025-10-27 02:35:14,Trustee notification
+868-981-23,Sold,2025-10-28,trustee_site,2025-10-28 11:03:48,Court filing received
+331-894-76,Sold,2025-10-06,trustee_site,2025-10-06 08:45:56,
+45-979-27,Scheduled,2024-13-45,aggregator,2026-01-28 11:39:56,Court filing received
+967-210-54,Cancelled,2025-09-12,aggregator,2025-09-13 07:56:46,Status change confirmed
+370-617-72,Cancelled,2025-12-02,trustee_site,2025-12-02 18:12:57,Trustee notification
+,postponed  ,2025-09-27,unknown_source,2025-09-27 13:54:11,Regular update
+258-524-93,Postponed,2025-11-22,attorney_update,2025-11-22 01:47:53,Court filing received
+126-193-39,Sold,2025-10-04,trustee_site,2025-10-04 13:17:53,Regular update
+536-802-23,Cancelled,2025-09-05,trustee_site,2025-09-05 08:44:41,Regular update
+218-891-61,Postponed,2025-10-17,aggregator,2025-10-17 14:35:24,Trustee notification
+906-910-90,Sold,2025-08-27,trustee_site,2025-08-28 00:23:40,Status change confirmed
+662-269-43,Cancelled,2025-12-21,attorney_update,2025-12-21 02:05:08,Court filing received
+417-863-53,Scheduled,2025-12-01,aggregator,2025-12-01 14:45:55,Regular update
+219-243-15,Sold,2025-08-30,attorney_update,2025-08-30 02:27:27,Court filing received
+930-490-59,Scheduled,2026-01-17,attorney_update,2026-01-17 02:55:47,Court filing received
+680-997-50,Postponed,2025-12-17,attorney_update,2025-12-17 02:57:51,Trustee notification
+729-144-94,Sold,2025-09-06,aggregator,2025-09-06 08:00:45,Trustee notification
+689-299-99,Sold,2025-09-30,aggregator,2025-09-30 05:15:07,Status change confirmed
+930-490-59,Postponed,2025-12-13,aggregator,2025-12-13 13:44:23,Court filing received
+708-581-47,Sold,2025-08-30,aggregator,2025-08-30 13:58:03,Regular update
+129-745-87,Postponed,2026-01-24,attorney_update,2026-01-24 02:35:04,
+370-617-72,Scheduled,2025-09-29,attorney_update,2025-09-29 03:53:36,
+998-887-80,Scheduled,2025-09-27,attorney_update,2025-09-27 00:50:17,
+242-877-70,Sold,2025-10-13,aggregator,2025-10-13 02:12:56,Trustee notification
+446-933-92,Sold,2025-09-27,attorney_update,2025-09-27 02:14:27,
+446-933-92,Scheduled,2025-12-25,trustee_site,2025-12-25 06:18:05,Trustee notification
+586-560-43,Scheduled,2025-08-28,trustee_site,2025-08-28 16:23:48,Court filing received
+310-98,Scheduled,2025-09-13,manual,2025-09-13 15:23:57,Trustee notification
+253-661-87,Sold,2025-10-15,attorney_update,2025-10-15 00:47:26,Court filing received
+965-674-89,Sold,2025-11-11,trustee_site,2025-11-11 09:32:09,
+423-417-75,Sold,2025-12-24,aggregator,2025-12-25 10:47:34,Court filing received
+164-833-68,Postponed,2025-12-05,attorney_update,2025-12-05 00:50:25,
+370-776-20,Scheduled,2025-10-21,attorney_update,2025-10-21 02:06:01,Regular update
+565-477-96,Sold,2026-01-12,attorney_update,2026-01-12 01:58:38,Trustee notification
+787-765-57,Scheduled,2025-10-22,aggregator,2025-10-23 11:00:30,
+217-514-12,Scheduled,2025-08-18,attorney_update,2025-08-18 01:34:23,Status change confirmed
+661-953-10,Cancelled,2026-01-20,attorney_update,2026-01-20 02:15:11,Court filing received
+426-201-93,Scheduled,2025-11-28,trustee_site,2025-11-28 04:59:25,Regular update
+294-196-22,Cancelled,2025-10-30,trustee_site,2025-10-30 09:02:27,Court filing received
+492-680-14,Scheduled,2025-09-10,attorney_update,2025-09-10 01:06:26,Trustee notification
+949-810-44,Cancelled,2025-11-19,trustee_site,2025-11-19 14:17:12,Status change confirmed
+379-320-75,Scheduled,2025-12-15,trustee_site,2025-12-16 03:14:23,Status change confirmed
+949-810-44,Scheduled,2025-11-14,aggregator,2025-11-14 20:47:35,
+420-537-50,Cancelled,2025-10-07,aggregator,2025-10-08 05:03:19,Status change confirmed
+955-529-78,Cancelled,2025-08-07,trustee_site,2025-08-07 04:15:51,Regular update
+951-531-42,Scheduled,2025-08-19,trustee_site,2025-08-19 13:56:56,Court filing received
+873-553-88,Cancelled,2025-10-30,trustee_site,2025-10-30 11:09:56,Trustee notification
+761-200-17,Sold,2025-11-02,aggregator,2025-11-02 23:49:34,Regular update
+508-436-45,Sold,2025-10-30,trustee_site,2025-10-30 13:32:14,Court filing received
+253-661-87,Postponed,2025-12-08,trustee_site,2025-12-08 19:40:58,Court filing received
+170-899-93,Postponed,2025-12-08,attorney_update,2025-12-08 02:58:04,Trustee notification
+268-488-10,Scheduled,2025-08-08,attorney_update,2025-08-08 00:21:43,Status change confirmed
+195-542-22,Scheduled,2025-10-25,trustee_site,2025-10-25 06:55:37,
+322-554-66,Postponed,2025-11-18,aggregator,2025-11-18 14:23:31,Status change confirmed
+379-320-75,Postponed,2025-09-16,attorney_update,2025-09-16 02:20:51,
+327-304-68,Scheduled,2026-01-26,trustee_site,,Status change confirmed
+411-187-41,Cancelled,2025-11-23,aggregator,2025-11-23 10:57:40,Court filing received
+550-179-46,Cancelled,2025-08-25,trustee_site,2025-08-25 09:53:16,Status change confirmed
+164-833-68,Cancelled,2025-10-18,trustee_site,2025-10-18 15:11:21,Trustee notification
+732-150-96,Postponed,2025-08-06,aggregator,2025-08-07 00:44:20,Trustee notification
+965-674-89,Sold,2025-12-09,trustee_site,2025-12-09 14:43:38,Court filing received
+178-687-27,Postponed,2026-01-26,trustee_site,2026-01-26 15:08:29,
+321-856-71,Sold,2025-11-25,trustee_site,2025-11-25 18:19:22,
+981-212-29,Sold,2025-08-05,attorney_update,2025-08-05 02:21:39,Trustee notification
+262-472-57,Scheduled,2025-11-04,trustee_site,2025-11-04 15:34:31,Trustee notification
+949-810-44,Cancelled,2026-01-23,trustee_site,2026-01-23 07:15:20,
+379-320-75,Postponed,2025-10-30,trustee_site,2025-10-30 14:56:15,Trustee notification
+258-524-93,Sold,2025-10-23,attorney_update,2025-10-23 01:09:23,Court filing received
+244-458-49,Cancelled,2025-08-20,trustee_site,2025-08-20 07:36:45,
+680-180-20,Scheduled,2025-11-02,attorney_update,2025-11-02 02:07:08,Trustee notification
+417-863-53,Sold,2025-10-07,trustee_site,2025-10-07 17:11:20,Trustee notification
+536-802-23,Sold,2025-12-17,trustee_site,2025-12-17 12:31:24,Court filing received
+216-126-33,Scheduled,2025-12-17,attorney_update,2025-12-17 02:11:52,Status change confirmed
+999-584-80,Rescheduled,,attorney_update,,Trustee notification
+492-680-14,Cancelled,2025-08-21,trustee_site,2025-08-21 17:08:36,Court filing received
+411-187-41,Sold,2025-09-10,aggregator,2025-09-11 10:28:15,
+217-514-12,Sold,2025-08-19,aggregator,2025-08-20 09:11:47,
+906-910-90,Sold,2025-12-01,aggregator,2025-12-01 15:03:53,Regular update
+279-581-76,Sold,2025-12-20,trustee_site,2025-12-20 11:58:23,Court filing received
+565-477-96,Scheduled,2025-09-25,aggregator,2025-09-26 00:09:14,Status change confirmed
+180-724-58,Cancelled,2025-11-30,aggregator,2025-12-01 04:22:52,Court filing received
+949-810-44,Sold,2025-11-26,trustee_site,2025-11-26 04:45:38,Court filing received
+319-449-72,Sold,2025-12-03,trustee_site,2025-12-03 11:29:16,Court filing received
+550-169-70,Cancelled,2025-08-15,trustee_site,2025-08-15 18:15:50,
+930-490-59,Postponed,2025-12-13,attorney_update,2025-12-13 02:18:57,Status change confirmed
+271-720-87,Sold,2025-11-07,attorney_update,2025-11-07 02:21:57,Regular update
+998-887-80,Scheduled,2026-01-02,attorney_update,2026-01-02 01:53:47,Status change confirmed
+586-560-43,Scheduled,2026-01-25,attorney_update,2026-01-25 02:30:22,Status change confirmed
+770-258-19,Cancelled,2025-10-25,trustee_site,2025-10-25 01:39:07,Trustee notification
+344-229-70,Scheduled,2025-11-25,attorney_update,2025-11-25 02:24:01,Regular update
+409-303-59,Scheduled,2025-12-06,ATTORNEY_UPDATE,2025-12-06 19:39:56,Trustee notification
+158-176-95,Scheduled,2025-09-10,aggregator,2025-09-10 14:34:05,
+126-193-39,Postponed,2025-11-06,attorney_update,,
+15-695-98,Sold,2025-08-21,manual,,Court filing received
+268-488-10,Postponed,2025-11-30,trustee_site,2025-11-30 08:52:36,Trustee notification
+175-552-54,Postponed,2025-08-05,attorney_update,2025-08-05 03:10:03,Status change confirmed
+676-202-19,Cancelled,2025-09-26,attorney_update,2025-09-26 01:39:20,
+101-632-78,Postponed,2025-10-31,aggregator,2025-10-31 09:12:38,Trustee notification
+689-793-58,Postponed,2025-09-15,attorney_update,2025-09-15 02:28:13,Trustee notification
+356-794-94,Scheduled,2025-09-21,aggregator,2025-09-22 08:18:38,Status change confirmed
+926-144-68,Cancelled,2025-11-28,aggregator,2025-11-28 22:08:04,
+101-632-78,Sold,2025-12-20,aggregator,2025-12-21 03:55:11,
+344-685-59,Cancelled,2026-01-04,attorney_update,2026-01-04 01:37:56,Court filing received
+846-350-30,Postponed,2025-09-26,attorney_update,2025-09-26 01:56:45,Court filing received
+343-554-88,Cancelled,2026-01-10,unknown_source,,Status change confirmed
+787-765-57,Sold,2026-01-13,aggregator,2026-01-13 11:17:37,Status change confirmed
+465-982-16,Scheduled,2025-11-21,aggregator,2025-11-22 15:10:42,
+411-179-37,Scheduled,2025-12-11,unknown_source,2025-12-11 15:23:20,Court filing received
+965-674-89,Sold,2026-01-01,aggregator,2026-01-01 11:00:08,
+234-192-47,Sold,2025-12-17,attorney_update,2025-12-17 02:19:59,
+807-252-79,Sold,2025-11-09,trustee_site,2025-11-09 04:41:10,
+411-187-41,Cancelled,2025-08-19,trustee_site,2025-08-19 03:15:02,
+786-225-62,Postponed,2025-09-10,trustee_site,2025-09-10 16:04:39,Trustee notification
+150-720-73,Sold,2026-01-28,trustee_site,2026-01-28 09:27:39,
+409-106-48,Postponed,2025-08-05,attorney_update,2025-08-05 00:06:00,
+732-150-96,Postponed,2026-01-19,attorney_update,2026-01-19 01:26:07,Trustee notification
+316-885-27,Postponed,2025-11-24,attorney_update,2025-11-24 02:08:36,Trustee notification
+794-900-66,Unknown,2025-08-05,attorney_update,2025-08-05 02:11:21,Trustee notification
+887-756-53,Cancelled,2025-12-29,trustee_site,2025-12-29 09:33:57,Court filing received
+417-863-53,Scheduled,2025-08-20,aggregator,2025-08-20 16:25:57,Regular update
+679-773-61,Postponed,2025-09-22,trustee_site,2025-09-22 15:26:36,Court filing received
+426-201-93,Sold,2025-08-29,trustee_site,2025-08-29 09:40:44,Status change confirmed
+379-525-71,Postponed,2025-11-03,attorney_update,2025-11-03 01:48:07,Regular update
+216-126-33,Scheduled,2025-10-18,aggregator,2025-10-18 23:02:46,Status change confirmed
+787-760-48,Postponed,2025-09-07,trustee_site,2025-09-07 18:01:52,Court filing received
+639-138-94,Postponed,2025-08-24,aggregator,2025-08-25 14:37:27,Court filing received
+379-320-75,Rescheduled,2025-11-01,trustee_site,2025-11-01 11:51:56,Regular update
+521-921-95,Cancelled,2025-10-07,aggregator,2025-10-07 14:45:07,Court filing received
+810-607-46,Postponed,2026-01-07,aggregator,2026-01-07 14:57:39,Regular update
+955-529-78,Postponed,2026-01-25,trustee_site,2026-01-25 06:00:23,Trustee notification
+733-982-56,Cancelled,2025-09-13,attorney_update,2025-09-13 03:30:17,Court filing received
+536-802-23,Cancelled,2025-09-27,aggregator,2025-09-27 00:06:00,Regular update
+928-903-70,Scheduled,2025-12-16,trustee_site,2025-12-16 00:06:00,Regular update
+446-933-92,Cancelled,2025-10-01,attorney_update,2025-10-01 01:55:37,Status change confirmed
+928-903-70,Cancelled,2026-01-24,attorney_update,2026-01-24 01:53:35,Trustee notification
+639-138-94,Sold,2025-10-23,attorney_update,2025-10-23 00:25:46,Trustee notification
+217-514-12,Scheduled,2025-12-09,attorney_update,2025-12-09 01:54:56,
+949-810-44,Scheduled,2025-11-26,attorney_update,2025-11-26 02:45:11,Status change confirmed
+807-252-79,Scheduled,2025-08-06,trustee_site,2025-08-06 09:35:55,Trustee notification
+710-818-45,Postponed,2025-11-19,aggregator,2025-11-20 06:22:45,Status change confirmed
+463-314-95,Cancelled,2025-12-21,attorney_update,2025-12-21 00:42:09,Trustee notification
+343-554-88,Postponed,2025-10-23,attorney_update,2025-10-23 00:30:26,Court filing received
+732-150-96,Postponed,2025-11-10,trustee_site,2025-11-10 10:49:38,
+195-542-22,Postponed,2025-08-14,attorney_update,2025-08-14 02:48:16,Court filing received
+223-838-34,Postponed,2025-12-22,trustee_site,2025-12-22 17:43:45,
+952-298-47,Scheduled,2025-09-14,aggregator,2025-09-15 05:42:45,Trustee notification
+370-218-23,Scheduled,2025-10-15,trustee_site,2025-10-15 11:02:38,Status change confirmed
+216-126-33,Cancelled,2025-12-11,attorney_update,2025-12-11 02:30:02,
+643-622-34,Postponed,2025-11-30,aggregator,2025-12-01 04:46:04,Court filing received
+612-652-73,Scheduled,2025-09-28,aggregator,2025-09-29 15:27:13,Status change confirmed
+810-607-46,Postponed,2025-09-25,trustee_site,2025-09-25 20:39:49,Status change confirmed
+133-518-11,Sold,2025-12-07,aggregator,,
+411-187-41,Sold,2025-10-11,attorney_update,2025-10-11 01:45:30,Status change confirmed
+379-525-71,Scheduled,2026-01-01,aggregator,2026-01-02 01:58:26,Status change confirmed
+680-997-50,Postponed,2025-09-13,aggregator,2025-09-13 08:29:50,
+262-472-57,Scheduled,2025-11-15,attorney_update,2025-11-15 02:59:38,Status change confirmed
+710-818-45,Cancelled,2025-12-17,trustee_site,2025-12-17 04:41:34,Regular update
+926-769-77,Sold,2025-10-05,aggregator,2025-10-06 07:44:31,Regular update
+848-902-81,Postponed,2025-08-03,aggregator,2025-08-03 12:30:50,Trustee notification
+508-436-45,Sold,2025-12-08,aggregator,2025-12-08 20:33:09,Status change confirmed
+495-447-33,Scheduled,2026-01-07,,2026-01-07 08:09:07,
+807-252-79,Sold,2025-10-23,aggregator,2025-10-24 14:08:03,Regular update
+412-682-89,Postponed,2025-12-22,attorney_update,2025-12-22 02:40:55,Status change confirmed
+158-176-95,Sold,2025-08-21,trustee_site,2025-08-21 20:32:15,Court filing received
+307-103-89,Scheduled,2026-01-27,trustee_site,2026-01-27 07:48:29,Status change confirmed
+409-303-59,Scheduled,2025-08-28,aggregator,2025-08-29 00:20:39,Regular update
+714-419-55,Cancelled,2025-08-21,aggregator,2025-08-21 03:02:07,Regular update
+887-756-53,Cancelled,2025-12-22,attorney_update,2025-12-22 01:20:21,Regular update
+417-863-53,Cancelled,2026-01-06,trustee_site,2026-01-06 17:56:20,Court filing received
+455-645-64,Postponed,2025-09-02,trustee_site,2025-09-02 13:53:23,Trustee notification
+761-200-17,Cancelled,2025-10-26,trustee_site,2025-10-26 20:53:26,Status change confirmed
+754-619-87,Cancelled,2025-12-25,trustee_site,2025-12-25 05:19:38,Regular update
+689-793-58,Cancelled,2025-10-15,aggregator,2025-10-15 05:42:27,
+711-643-47,Sold,2025-08-01,aggregator,2025-08-01 21:08:39,
+951-531-42,Cancelled,2025-08-24,attorney_update,2025-08-24 00:52:53,Status change confirmed
+649-439-13,Postponed,2025-11-15,aggregator,2025-11-15 18:25:37,Court filing received
+740-915-25,Postponed,2025-11-04,trustee_site,2025-11-04 13:25:47,Court filing received
+366-488-51,Scheduled,2025-11-13,trustee_site,2025-11-13 08:06:31,
+130-195-37,Scheduled,2025-11-04,aggregator,2025-11-04 13:32:17,
+327-304-68,Postponed,2025-11-03,trustee_site,2025-11-03 20:05:19,Status change confirmed
+886-894-17,Postponed,2025-12-20,trustee_site,2025-12-20 03:10:20,
+950-268-42,Sold,2026-01-14,aggregator,2026-01-14 05:50:59,
+554-459-67,Cancelled,2025-09-13,aggregator,2025-09-14 15:38:28,Trustee notification
+944-682-46,Scheduled,2025-11-18,attorney_update,2025-11-18 02:09:14,Regular update
+218-891-61,Postponed,2025-08-26,aggregator,2025-08-26 11:35:35,Trustee notification
+321-856-71,Scheduled,2025-10-15,trustee_site,2025-10-15 17:09:37,Regular update
+550-179-46,Cancelled,2025-11-12,trustee_site,2025-11-12 13:04:29,Regular update
+886-894-17,Postponed,2025-10-07,attorney_update,2025-10-07 02:49:45,
+101-632-78,Sold,2025-11-06,aggregator,,
+787-760-48,Postponed,2026-01-19,aggregator,2026-01-19 05:38:11,
+205-76,Unknown,2025-12-10,attorney_update,2025-12-10 02:23:57,
+175-552-54,Scheduled,2025-12-21,trustee_site,2025-12-21 13:37:27,
+871-969-40,Postponed,2025-10-31,aggregator,2025-11-01 04:56:42,
+926-769-77,Cancelled,2025-11-27,aggregator,2025-11-28 04:55:14,Trustee notification
+981-212-29,Postponed,2025-09-30,attorney_update,2025-09-30 02:45:36,Regular update
+536-501-32,Sold,2025-12-09,trustee_site,2025-12-09 08:27:57,Status change confirmed
+761-200-17,Sold,2025-10-04,attorney_update,2025-10-04 00:54:52,Trustee notification
+465-982-16,Sold,2025-11-30,trustee_site,2025-11-30 15:09:42,
+279-581-76,Sold,2025-08-02,attorney_update,2025-08-02 01:49:09,Trustee notification
+411-187-41,Sold,2026-01-21,trustee_site,2026-01-21 14:41:33,Status change confirmed
+521-921-95,Cancelled,2025-08-27,trustee_site,2025-08-27 13:10:20,
+937-831-23,Scheduled,2025-08-30,aggregator,2025-08-30 13:02:02,Status change confirmed
+708-581-47,Postponed,2025-08-30,aggregator,2025-08-30 13:35:17,Status change confirmed
+753-360-68,Cancelled,2025-08-04,aggregator,2025-08-05 01:32:13,Regular update
+495-447-33,Sold,2025-08-30,attorney_update,2025-08-30 03:28:06,
+965-674-89,Scheduled,2025-12-14,trustee_site,2025-12-14 09:49:00,
+737-874-73,Scheduled,2025-08-19,unknown_source,2025-08-20 11:26:19,Court filing received
+150-720-73,Cancelled,2025-08-24,trustee_site,2025-08-24 08:30:20,Trustee notification
+242-877-70,Cancelled,2025-11-01,trustee_site,2025-11-01 10:08:15,Regular update
+550-169-70,Sold,2025-11-14,attorney_update,2025-11-14 03:59:15,Regular update
+848-902-81,Scheduled,2025-08-21,aggregator,2025-08-22 09:51:51,Status change confirmed
+753-360-68,Postponed,2025-12-15,aggregator,2025-12-15 16:20:48,Status change confirmed
+126-193-39,Sold,2025-11-16,attorney_update,2025-11-16 02:06:05,Court filing received
+116-247-72,Postponed,2025-08-03,,2025-08-03 17:15:11,
+150-720-73,Sold,2025-12-02,trustee_site,2025-12-02 13:42:00,Court filing received
+130-195-37,Sold,2025-11-29,aggregator,2025-11-29 21:45:34,
+846-350-30,Scheduled,2025-09-27,aggregator,2025-09-27 14:45:46,Trustee notification
+926-769-77,Cancelled,2025-08-25,attorney_update,,Regular update
+195-542-22,Cancelled,2026-01-15,aggregator,2026-01-16 12:12:29,Regular update
+863-165-70,Sold,2025-11-05,aggregator,2025-11-05 15:32:37,Status change confirmed
+950-188-45,Cancelled,2026-01-19,attorney_update,2026-01-19 01:32:35,Trustee notification
+679-773-61,Cancelled,2025-08-20,attorney_update,2025-08-20 00:43:48,Status change confirmed
+732-150-96,Scheduled,2025-11-15,aggregator,2025-11-16 06:04:22,Trustee notification
+635-423-43,Scheduled,2025-11-25,trustee_site,2025-11-25 04:10:21,Court filing received
+689-793-58,Cancelled,2025-12-31,attorney_update,2025-12-31 00:15:19,Court filing received
+193-581-54,Postponed,2025-08-02,trustee_site,2025-08-02 04:00:16,Court filing received
+711-643-47,Scheduled,2026-01-07,trustee_site,2026-01-07 19:54:13,Court filing received
+930-490-59,Sold,2025-08-12,attorney_update,2025-08-12 01:43:33,Status change confirmed
+867-258-40,Postponed,2025-11-01,aggregator,2025-11-02 08:51:41,Regular update
+674-435-88,Postponed,2025-11-22,aggregator,,Regular update
+816-402-12,Sold,2025-11-09,aggregator,2025-11-10 03:08:52,
+680-997-50,Scheduled,2025-08-18,aggregator,2025-08-18 09:57:05,
+271-720-87,Cancelled,2025-11-21,trustee_site,2025-11-21 21:11:40,Regular update
+316-885-27,Sold,2025-08-09,trustee_site,2025-08-09 11:56:39,
+536-802-23,Cancelled,2025-08-05,aggregator,2025-08-05 04:27:45,Court filing received
+384-928-10,Scheduled,2026-01-25,attorney_update,2026-01-25 00:57:51,Status change confirmed
+554-459-67,Cancelled,2025-12-10,trustee_site,2025-12-10 15:52:32,Regular update
+708-772-37,Scheduled,,attorney_update,2026-01-28 11:39:56,
+846-905-50,Scheduled,2025-12-12,aggregator,2025-12-12 23:43:04,Regular update
+689-793-58,Sold,2025-08-11,aggregator,2025-08-12 13:27:28,Trustee notification
+680-180-20,Cancelled,2025-10-23,attorney_update,2025-10-23 00:06:00,Trustee notification
+170-899-93,Postponed,2026-01-11,trustee_site,2026-01-12 00:49:58,Status change confirmed
+661-953-10,Sold,2025-08-16,attorney_update,2025-08-16 01:26:35,Status change confirmed
+910-436-26,Scheduled,2025-11-23,trustee_site,2025-11-23 12:10:00,Regular update
+845-356-67,Rescheduled,2025-08-11,ATTORNEY_UPDATE,2025-08-12 06:13:21,Status change confirmed
+863-165-70,Sold,2025-10-09,trustee_site,2025-10-09 16:22:28,Status change confirmed
+713-431-72,Postponed,2025-10-22,attorney_update,2025-10-22 03:46:11,Status change confirmed
+412-682-89,Sold,2025-11-02,ATTORNEY_UPDATE,,Trustee notification
+508-436-45,Scheduled,2025-08-12,trustee_site,2025-08-12 08:51:13,Court filing received
+195-330-24,Scheduled,2025-08-05,aggregator,2025-08-05 20:47:48,Status change confirmed
+350-478-46,Scheduled,2026-01-22,attorney_update,2026-01-22 02:19:32,
+195-330-24,Scheduled,2025-08-17,aggregator,2025-08-17 18:44:18,Status change confirmed
+926-144-68,Scheduled,2026-01-14,trustee_site,2026-01-14 18:55:53,Trustee notification
+680-997-50,Sold,2025-12-05,attorney_update,2025-12-05 02:31:15,Status change confirmed
+420-537-50,Postponed,2025-09-02,aggregator,2025-09-02 07:19:48,Court filing received
+886-894-17,Postponed,2025-08-14,trustee_site,2025-08-15 00:59:19,
+327-304-68,Cancelled,2025-12-16,attorney_update,2025-12-16 02:15:37,Regular update
+268-488-10,Scheduled,2025-08-29,trustee_site,2025-08-29 13:17:16,Court filing received
+492-680-14,Sold,2025-12-29,trustee_site,2025-12-29 07:57:53,
+380-146-16,Postponed,2025-08-30,attorney_update,2025-08-30 02:10:01,Trustee notification
+967-210-54,postponed  ,2024-13-45,attorney_update,2026-01-28 11:39:56,Regular update
+787-765-57,Scheduled,2025-12-14,attorney_update,2025-12-14 02:19:13,Regular update
+179-982-50,Cancelled,2025-08-04,trustee_site,2025-08-04 15:38:40,Court filing received
+244-458-49,Cancelled,2025-10-05,aggregator,2025-10-05 04:40:38,Status change confirmed
+327-304-68,Scheduled,2025-12-13,aggregator,2025-12-13 20:37:14,Regular update
+710-818-45,Cancelled,2026-01-27,trustee_site,2026-01-27 03:55:04,
+620-182-33,Scheduled,2025-10-28,aggregator,2025-10-29 22:57:47,
+186-616-92,Postponed,2026-01-15,trustee_site,2026-01-15 00:06:00,Court filing received
+964-585-73,POSTPONED,2025-10-09,manual,2025-10-09 05:16:34,Status change confirmed
+508-436-45,POSTPONED,,attorney_update,2026-01-28 11:39:56,
+770-258-19,Postponed,2025-08-08,aggregator,2025-08-08 07:06:30,Trustee notification
+848-902-81,Cancelled,2026-01-03,attorney_update,2026-01-03 02:05:00,Court filing received
+868-981-23,Scheduled,2025-09-01,trustee_site,2025-09-01 18:10:08,Status change confirmed
+550-169-70,Sold,2025-08-20,trustee_site,2025-08-20 11:19:47,Regular update
+996-836-43,Cancelled,2025-12-31,attorney_update,2025-12-31 02:53:52,Status change confirmed
+521-921-95,Cancelled,2025-11-14,attorney_update,2025-11-14 00:35:44,
+379-320-75,Postponed,2025-10-15,attorney_update,2025-10-15 00:55:47,
+366-488-51,Scheduled,2025-11-13,trustee_site,2025-11-13 22:06:31,
+807-252-79,Sold,2025-10-23,aggregator,2025-10-25 20:08:03,Regular update
+327-304-68,Postponed,2025-10-21,attorney_update,2025-10-21 02:12:09,
+732-150-96,Postponed,2026-01-19,attorney_update,2026-01-21 01:26:07,Trustee notification
+376-730-78,Sold,2025-09-17,aggregator,2025-09-18 07:02:27,Court filing received
+417-863-53,Scheduled,2025-12-01,aggregator,2025-12-02 18:45:55,Regular update
+770-258-19,Postponed,2025-08-08,aggregator,2025-08-08 22:06:30,Trustee notification
+417-863-53,Scheduled,2025-12-01,aggregator,2025-12-03 04:45:55,Regular update
+327-304-68,Scheduled,2025-12-13,aggregator,2025-12-13 21:37:14,Regular update
+343-554-88,Cancelled,2026-01-10,unknown_source,,Status change confirmed
+420-537-50,Sold,2025-12-27,aggregator,2025-12-28 01:49:07,Regular update
+848-902-81,Postponed,2025-08-03,aggregator,2025-08-05 11:30:50,Trustee notification
+926-769-77,Cancelled,2025-11-27,aggregator,2025-11-28 07:55:14,Trustee notification
+786-225-62,Postponed,2025-09-10,trustee_site,2025-09-12 02:04:39,Trustee notification
+180-724-58,Cancelled,2025-11-30,aggregator,2025-12-02 11:22:52,Court filing received
+550-169-70,Scheduled,2025-08-16,aggregator,2025-08-17 23:39:55,Trustee notification
+218-891-61,Postponed,2025-08-26,aggregator,2025-08-27 03:35:35,Trustee notification
+863-165-70,Sold,2026-01-22,attorney_update,2026-01-23 14:28:35,Regular update
+181-435-94,Sold,2025-08-07,attorney_update,2025-08-08 23:03:50,Regular update
+15-695-98,Sold,2025-08-21,manual,,Court filing received
+344-685-59,Sold,2025-10-25,aggregator,2025-10-26 05:49:10,Regular update
+955-529-78,Cancelled,2025-08-07,trustee_site,2025-08-07 23:15:51,Regular update
+779-968-25,Scheduled,2025-10-23,aggregator,2025-10-25 03:32:33,
+417-863-53,Postponed,2025-11-09,trustee_site,2025-11-09 16:39:20,Trustee notification
+417-863-53,Cancelled,2026-01-06,trustee_site,2026-01-08 12:56:20,Court filing received
+680-180-20,Cancelled,2026-01-01,aggregator,2026-01-02 06:28:35,
+216-126-33,Cancelled,2025-12-11,attorney_update,2025-12-12 15:30:02,
+996-836-43,Cancelled,2025-12-31,attorney_update,2025-12-31 04:53:52,Status change confirmed
+732-150-96,Postponed,2025-11-10,trustee_site,2025-11-11 16:49:38,
+384-928-10,Scheduled,2025-11-02,aggregator,2025-11-05 12:37:42,Status change confirmed
+126-193-39,Postponed,2025-11-06,attorney_update,,
+821-245-24,Cancelled,2025-08-12,trustee_site,2025-08-13 00:06:00,Regular update
+411-187-41,Sold,2025-10-11,attorney_update,2025-10-12 23:45:30,Status change confirmed
+175-417-69,Postponed,2025-12-11,aggregator,2025-12-14 02:07:37,Status change confirmed
+446-933-92,Postponed,2025-08-06,trustee_site,2025-08-07 14:09:31,Regular update
+689-299-99,Sold,2025-09-30,aggregator,2025-10-01 15:15:07,Status change confirmed
+554-459-67,Scheduled,2025-08-14,trustee_site,2025-08-15 17:00:12,Trustee notification
+150-720-73,Sold,2026-01-28,trustee_site,2026-01-29 03:27:39,
+996-836-43,Cancelled,2025-12-31,attorney_update,2026-01-01 15:53:52,Status change confirmed
+620-182-33,Scheduled,2025-10-28,aggregator,2025-10-30 12:57:47,
+319-652-26,Cancelled,2026-01-10,attorney_update,2026-01-11 18:30:12,Court filing received
+129-745-87,Postponed,2026-01-24,attorney_update,2026-01-26 02:35:04,
+193-581-54,Scheduled,2025-12-11,aggregator,2025-12-13 19:44:22,Regular update
+253-661-87,Postponed,2025-12-08,trustee_site,2025-12-08 23:40:58,Court filing received
+763-252-44,Cancelled,2025-08-23,trustee_site,2025-08-24 18:29:09,Court filing received
+268-488-10,Scheduled,2025-08-08,attorney_update,2025-08-09 06:21:43,Status change confirmed
+175-417-69,Postponed,2025-12-11,aggregator,2025-12-14 05:07:37,Status change confirmed
+268-488-10,Scheduled,2025-08-08,attorney_update,2025-08-09 00:21:43,Status change confirmed
+327-304-68,Cancelled,2025-12-12,attorney_update,2025-12-13 19:49:48,Court filing received
+195-330-24,Scheduled,2025-08-05,aggregator,2025-08-07 18:47:48,Status change confirmed
+936-561-54,POSTPONED,2025-12-21,aggregator,invalid,Status change confirmed
+195-330-24,Scheduled,2025-08-17,aggregator,2025-08-19 16:44:18,Status change confirmed
+737-874-73,Sold,2025-12-02,,2025-12-03 13:37:27,
+708-581-47,Sold,2025-08-30,aggregator,2025-08-31 05:58:03,Regular update
+674-435-88,Postponed,2025-11-22,aggregator,,Regular update
+770-258-19,Postponed,2025-10-22,aggregator,2025-10-24 05:43:50,
+714-419-55,Cancelled,2025-08-21,aggregator,2025-08-23 03:02:07,Regular update
+848-902-81,Cancelled,2026-01-03,attorney_update,2026-01-04 23:05:00,Court filing received
+951-531-42,Cancelled,2026-01-11,aggregator,2026-01-13 11:23:10,Regular update
+303-250-13,Postponed,2025-09-19,trustee_site,invalid,Regular update
