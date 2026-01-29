@@ -2,6 +2,10 @@
 
 CLI tool to validate, clean, and dedupe real estate property and event CSVs. Pandas-only dependency.
 
+**Context:** Built to demonstrate data validation and cleaning workflows for real estate foreclosure tracking data. Handles common data quality issues: malformed IDs, missing values, duplicates, referential integrity, and inconsistent formatting.
+
+**Use case example:** A foreclosure data aggregator receives daily feeds from attorneys, trustee websites, and third-party vendors. This tool validates incoming data, rejects malformed records with clear reasons for manual review, and outputs clean, deduplicated datasets for downstream analysis.
+
 ## Quick Start
 
 ```bash
@@ -69,30 +73,38 @@ All outputs written to `outputs/` directory:
 - Multiple violations per row combined with semicolons
 - Foreign key checks prevent orphaned events
 
-## Testing / Verification
+## Technical Highlights
 
-To verify the complete workflow:
+- **Comprehensive validation**: Regex patterns, type checking, FK constraints, duplicate detection
+- **Graceful error handling**: Bad data goes to rejected_rows.csv with clear reasons instead of crashing
+- **Realistic test data**: Synthetic generator injects ~15% dirty rows mimicking real-world issues
+- **Statistical analysis**: Calculates data lag by source and identifies high-postponement properties
+- **Simple deployment**: Single dependency, no database, runs anywhere Python does
+
+## Development Testing
+
+To verify the end-to-end workflow:
 
 ```bash
 # Clean previous outputs
-rm outputs/*.csv
+rm -f outputs/*.csv
 
-# Regenerate sample data
+# Generate synthetic data with intentional quality issues
 ./venv/bin/python scripts/generate_synth_data.py
 
 # Run validator
 ./venv/bin/python validator.py
 
-# Verify outputs created
+# Check outputs
 ls -lh outputs/
-wc -l outputs/*.csv
+head -5 outputs/rejected_rows.csv
 ```
 
-**Expected results:**
-- ~182 cleaned properties (82.7% pass rate)
-- ~512 cleaned events (77.6% pass rate)
-- ~115 rejected rows with violation_reason
-- Average lag: attorney_update ~5h, trustee_site ~13h, aggregator ~28h
+**Expected behavior:**
+- Creates `cleaned_properties.csv`, `cleaned_events.csv`, and `rejected_rows.csv` in `outputs/`
+- `rejected_rows.csv` includes `violation_reason` column explaining why each row was rejected
+- Most rows pass validation; some are rejected due to intentional data quality issues
+- Console prints validation summary with pass rates and statistics
 
 ## Deploying Vercel Signpost
 
@@ -126,9 +138,7 @@ data-integrity-validator/
 │   ├── properties.csv           # Sample properties (200 rows)
 │   └── events.csv               # Sample events (600 rows)
 ├── outputs/
-│   ├── cleaned_properties.csv   # Generated output
-│   ├── cleaned_events.csv       # Generated output
-│   └── rejected_rows.csv        # Generated output
+│   └── .gitkeep                 # Preserves directory (generated CSVs are .gitignored)
 ├── vercel_signpost/
 │   └── index.html               # Landing page for Vercel
 ├── README.md                     # This file
