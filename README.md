@@ -135,8 +135,8 @@ data-integrity-validator/
 ├── scripts/
 │   └── generate_synth_data.py   # Synthetic data generator
 ├── sample_data/
-│   ├── properties.csv           # Sample properties (200 rows)
-│   └── events.csv               # Sample events (600 rows)
+│   ├── properties.csv           # Sample properties (220 rows incl. duplicates)
+│   └── events.csv               # Sample events (660 rows incl. duplicates)
 ├── outputs/
 │   └── .gitkeep                 # Preserves directory (generated CSVs are .gitignored)
 ├── vercel_signpost/

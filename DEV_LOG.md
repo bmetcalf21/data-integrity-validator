@@ -70,7 +70,9 @@ Track AI-assisted development sessions, prompts, and manual reviews.
 - Created `vercel_signpost/index.html` landing page with project overview
 
 **Manual Review:**
-- [To be filled after manual review]
+- Verified README setup and run commands execute end-to-end
+- Confirmed signpost renders correctly on desktop and mobile widths
+- Spot-checked GitHub links and feature bullets for accuracy
 
 **Status:** ✓ Complete
 

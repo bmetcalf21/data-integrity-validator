@@ -7,7 +7,6 @@ Validates, cleanses, deduplicates, and reports on data quality.
 import pandas as pd
 import re
 import sys
-from datetime import datetime
 from pathlib import Path
 
 
@@ -78,15 +77,15 @@ def validate_properties(df, stats):
     """Validate properties dataset"""
     stats.properties_input = len(df)
 
+    # Normalize and trim first so required-column checks are case/whitespace tolerant
+    df = normalize_column_names(df)
+    df = trim_string_fields(df)
+
     # Required columns
     required_cols = ['apn', 'county', 'status', 'estimated_value', 'address', 'last_updated']
     missing_cols = [col for col in required_cols if col not in df.columns]
     if missing_cols:
         raise ValueError(f"Missing required columns in properties: {missing_cols}")
-
-    # Normalize and trim
-    df = normalize_column_names(df)
-    df = trim_string_fields(df)
 
     # Track rejection reasons
     df['_violation_reason'] = ''
@@ -145,15 +144,15 @@ def validate_events(df, valid_apns, stats):
     """Validate events dataset"""
     stats.events_input = len(df)
 
+    # Normalize and trim first so required-column checks are case/whitespace tolerant
+    df = normalize_column_names(df)
+    df = trim_string_fields(df)
+
     # Required columns
     required_cols = ['apn', 'event_type', 'event_date', 'source', 'updated_at', 'notes']
     missing_cols = [col for col in required_cols if col not in df.columns]
     if missing_cols:
         raise ValueError(f"Missing required columns in events: {missing_cols}")
-
-    # Normalize and trim
-    df = normalize_column_names(df)
-    df = trim_string_fields(df)
 
     # Track rejection reasons
     df['_violation_reason'] = ''
@@ -288,13 +287,18 @@ def print_summary(stats):
 
 def main():
     """Main validation workflow"""
-    # Parse command-line arguments or use defaults
-    if len(sys.argv) > 2:
+    # Parse command-line arguments
+    if len(sys.argv) == 3:
         properties_file = sys.argv[1]
         events_file = sys.argv[2]
-    else:
+    elif len(sys.argv) == 1:
         properties_file = "sample_data/properties.csv"
         events_file = "sample_data/events.csv"
+    else:
+        print("\nUsage:")
+        print("  python validator.py")
+        print("  python validator.py <properties.csv> <events.csv>")
+        sys.exit(1)
 
     print(f"\nReading data from:")
     print(f"  Properties: {properties_file}")
