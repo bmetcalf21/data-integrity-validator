@@ -6,6 +6,10 @@ CLI tool to validate, clean, and dedupe real estate property and event CSVs. Pan
 
 **Use case example:** A foreclosure data aggregator receives daily feeds from attorneys, trustee websites, and third-party vendors. This tool validates incoming data, rejects malformed records with clear reasons for manual review, and outputs clean, deduplicated datasets for downstream analysis.
 
+## Live Demo
+
+- Vercel signpost: https://data-integrity-validator.vercel.app/
+
 ## Quick Start
 
 ```bash
